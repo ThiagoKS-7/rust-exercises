@@ -13,7 +13,9 @@ Rust exercises repo
 
 ## Getting Started <a name = "getting_started"></a>
 
-References: https://doc.rust-lang.org/rust-by-example/index.html
+References: 
+- https://doc.rust-lang.org/rust-by-example/index.html
+- https://doc.rust-lang.org/book/index.html
 
 ### Prerequisites
 

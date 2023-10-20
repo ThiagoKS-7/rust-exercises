@@ -1,7 +1,7 @@
 #[path = "./tools/math_funcs.rs"]
 mod math_funcs;
 
-use crate::math_funcs::*;
+use crate::math_funcs::expressions::*; //importa tudo q tem no modulo expressions
 
 // https://hackernoon.com/including-files-and-deeply-directories-in-rust-q35o3yer
 fn main() {
